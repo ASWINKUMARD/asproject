@@ -1,0 +1,15 @@
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+langchain==0.1.0
+langchain-community==0.0.10
+sentence-transformers==2.2.2
+faiss-cpu
+pypdf==3.17.4
+docx2txt==0.8
+unstructured==0.11.6
+openpyxl==3.1.2
+python-docx==1.1.0
+fpdf2==2.7.6
+requests==2.31.0
+werkzeug==3.0.1
